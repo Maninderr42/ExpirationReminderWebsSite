@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c44dc117.css",
+    "main.js": "/static/js/main.7693ef67.js",
+    "static/media/a365.png": "/static/media/a365.426f6767843a3310e816.png",
+    "static/media/a996.png": "/static/media/a996.477bb8928d90624a7eae.png",
+    "static/media/login2-removebg.png": "/static/media/login2-removebg.97387ac1103432570ec8.png",
+    "static/media/types3.png": "/static/media/types3.bbfef43f60ad84cb089f.png",
+    "static/media/types1.png": "/static/media/types1.6dadb69b750baf9cbb4c.png",
+    "static/media/types2.png": "/static/media/types2.ae03b23608fa78bba2aa.png",
+    "static/media/pikaso_texttoimage_35mm-film-photography-Handdrawn-animated-infograph.jpeg": "/static/media/pikaso_texttoimage_35mm-film-photography-Handdrawn-animated-infograph.4dae691ea737960ad818.jpeg",
+    "static/media/IMG-20240512-WA0004-removebg-preview.png": "/static/media/IMG-20240512-WA0004-removebg-preview.54d54cc3034ccc6307dc.png",
+    "static/media/Screenshot 2024-05-29 143648.png": "/static/media/Screenshot 2024-05-29 143648.958455d24177ae5c45e3.png",
+    "static/media/man.png": "/static/media/man.ab45eb1d42b1faaf3d12.png",
+    "static/media/undraw_No_data.png": "/static/media/undraw_No_data.0e51e7f79a72eec8a1f3.png",
+    "static/media/bell.png": "/static/media/bell.5c0556b6cdacd47b749d.png",
+    "static/media/not_available.png": "/static/media/not_available.9500cf0c2aeffd014821.png",
+    "index.html": "/index.html",
+    "main.c44dc117.css.map": "/static/css/main.c44dc117.css.map",
+    "main.7693ef67.js.map": "/static/js/main.7693ef67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44dc117.css",
+    "static/js/main.7693ef67.js"
+  ]
+}
